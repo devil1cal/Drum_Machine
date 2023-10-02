@@ -5,6 +5,15 @@
 - 🌱 İt is a simple drum  machine, created on CodeSandbox for freecode front end development libraries certification.
 - 💬 Online show case link is <a href="https://xqv6pz.csb.app/" > here<a/>
 
+# Overview
+- 🚧 under construction 🚧 
+
+
+# Task List
+- [x] Creating working envoriment of the game
+- [ ] Changing better style
+
+
 
 <h3 align="left">WHich language did I use :</h3>
 <p align="left"> 
