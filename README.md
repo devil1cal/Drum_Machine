@@ -3,7 +3,7 @@
 
 
 - 🌱 İt is a simple drum  machine, created on CodeSandbox for freecode front end development libraries certification.
-- 💬 Online show case link is <a href="https://xqv6pz.csb.app/" > here<a/>
+- 💬 Online showcase link is <a href="https://xqv6pz.csb.app/" > here<a/>
 
 # Overview
 - 🚧 under construction 🚧 
